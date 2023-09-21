@@ -1,0 +1,150 @@
+{
+    "GK": [
+        {
+            "name": "Jordan Pickford",
+            "points": 12.52,
+            "price": "\u00a34.4M",
+            "club": "EVE",
+            "type": "GK"
+        },
+        {
+            "name": "Nick Pope",
+            "points": 12.51,
+            "price": "\u00a35.5M",
+            "club": "NEW",
+            "type": "GK"
+        },
+        {
+            "name": "Sam Johnstone",
+            "points": 12.3,
+            "price": "\u00a34.5M",
+            "club": "CRY",
+            "type": "GK"
+        },
+        {
+            "name": "Robert S\u00e1nchez",
+            "points": 12.01,
+            "price": "\u00a34.5M",
+            "club": "CHE",
+            "type": "GK"
+        },
+        {
+            "name": "Bernd Leno",
+            "points": 11.59,
+            "price": "\u00a34.6M",
+            "club": "FUL",
+            "type": "GK"
+        }
+    ],
+    "DEF": [
+        {
+            "name": "Kieran Trippier",
+            "points": 14.09,
+            "price": "\u00a36.5M",
+            "club": "NEW",
+            "type": "DEF"
+        },
+        {
+            "name": "Malo Gusto",
+            "points": 13.51,
+            "price": "\u00a34.2M",
+            "club": "CHE",
+            "type": "DEF"
+        },
+        {
+            "name": "Axel Disasi",
+            "points": 13.07,
+            "price": "\u00a35.1M",
+            "club": "CHE",
+            "type": "DEF"
+        },
+        {
+            "name": "Pedro Porro",
+            "points": 12.94,
+            "price": "\u00a35.0M",
+            "club": "TOT",
+            "type": "DEF"
+        },
+        {
+            "name": "Andrew Robertson",
+            "points": 12.87,
+            "price": "\u00a36.5M",
+            "club": "LIV",
+            "type": "DEF"
+        }
+    ],
+    "MID": [
+        {
+            "name": "Mohamed Salah",
+            "points": 19.72,
+            "price": "\u00a312.5M",
+            "club": "LIV",
+            "type": "MID"
+        },
+        {
+            "name": "Marcus Rashford",
+            "points": 17.67,
+            "price": "\u00a38.9M",
+            "club": "MUN",
+            "type": "MID"
+        },
+        {
+            "name": "Bruno Borges Fernandes",
+            "points": 17.18,
+            "price": "\u00a38.4M",
+            "club": "MUN",
+            "type": "MID"
+        },
+        {
+            "name": "Son Heung-min",
+            "points": 16.97,
+            "price": "\u00a39.1M",
+            "club": "TOT",
+            "type": "MID"
+        },
+        {
+            "name": "James Maddison",
+            "points": 16.48,
+            "price": "\u00a37.9M",
+            "club": "TOT",
+            "type": "MID"
+        }
+    ],
+    "FWD": [
+        {
+            "name": "Erling Haaland",
+            "points": 23.39,
+            "price": "\u00a314.1M",
+            "club": "MCI",
+            "type": "FWD"
+        },
+        {
+            "name": "Juli\u00e1n \u00c1lvarez",
+            "points": 17.79,
+            "price": "\u00a36.8M",
+            "club": "MCI",
+            "type": "FWD"
+        },
+        {
+            "name": "Carlton Morris",
+            "points": 14.48,
+            "price": "\u00a35.5M",
+            "club": "LUT",
+            "type": "FWD"
+        },
+        {
+            "name": "Taiwo Awoniyi",
+            "points": 13.99,
+            "price": "\u00a36.6M",
+            "club": "NFO",
+            "type": "FWD"
+        },
+        {
+            "name": "Ollie Watkins",
+            "points": 12.38,
+            "price": "\u00a37.9M",
+            "club": "AVL",
+            "type": "FWD"
+        }
+    ]
+}
