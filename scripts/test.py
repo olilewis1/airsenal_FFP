@@ -1,59 +1,31 @@
 import json
-import re
 
-def extract_player_data(position, airsenal_output):
-    # Construct the regular expression pattern based on the position
-    pattern = f'{position}:\n(.*?)\n-------------------------'
-    
-    # Search for the player data
-    player_data_match = re.search(pattern, airsenal_output, re.DOTALL)
-    
-    player_data = []
+# Define the extract_data function
+# Define the extract_data function
+# Define the extract_data function
+def extract_data(output):
+        # Search for the desired data pattern
+      start_pattern = "===================================="
+      end_pattern = "Pipeline finished OK!"
 
-    if player_data_match:
-        # Split the player data into lines
-        player_lines = player_data_match.group(1).strip().split('\n')
-        
-        # Extract all player values
-        for line in player_lines:
-            # Use regular expressions to extract the desired values
-            player_match = re.match(r'\d+\.\s+(.*?),\s+([\d.]+)pts\s+\(£([\d.]+)m,\s+([A-Z]+)\)', line)
-            
-            if player_match:
-                # Create a dictionary for the player
-                player = {
-                    "name": player_match.group(1),
-                    "points": float(player_match.group(2)),
-                    "price": f'£{player_match.group(3)}M',
-                    "club": player_match.group(4),
-                    "type": position
-                }
-                player_data.append(player)
+      # Find the start and end positions of the data
+      start_pos = output.find(start_pattern)
+      end_pos = output.find(end_pattern)
 
-    return player_data
+      # Extract the data
+      if start_pos != -1 and end_pos != -1:
+          data = output[start_pos:end_pos + len(end_pattern)]
+          return data
+      else:
+          return "Data not found."
 
-# Load the AIrsenal data from the JSON file
-with open("airsenal_data.json", "r") as json_file:
-    data = json.load(json_file)
 
-# Access the AIrsenal output
-airsenal_output = data.get("AIrsenal_Output")
+# Read the content of the JSON file
+with open('NEXT_THREE_DATA.JSON', 'r') as json_file:
+    json_data = json.load(json_file)
+# Extract the desired section from the JSON data
+json_data['next_three_out'] += "\n  Pipeline finished OK!"
+desired_section = extract_data(json_data['next_three_out'])
 
-# Specify the positions you want to extract
-positions = ["GK", "DEF", "MID", "FWD"]
-
-# Initialize a dictionary to store player data for each position
-player_data_dict = {}
-
-if airsenal_output:
-    for position in positions:
-        player_data = extract_player_data(position, airsenal_output)
-        player_data_dict[position] = player_data
-
-    # Save the player_data_dict to a single JSON file
-    with open("player_data_next_three.json", "w") as outfile:
-        json.dump(player_data_dict, outfile, indent=4)
-    
-    print("Player data saved to player_data.json.")
-else:
-    print("No AIrsenal output found in the JSON file.")
+# Print the extracted section
+print('hiii', desired_section)

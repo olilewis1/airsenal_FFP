@@ -33,11 +33,11 @@ def extract_player_data(position, airsenal_output):
     return player_data
 
 # Load the AIrsenal data from the JSON file
-with open("airsenal_data.json", "r") as json_file:
+with open("next_three_data.json", "r") as json_file:
     data = json.load(json_file)
 
 # Access the AIrsenal output
-airsenal_output = data.get("AIrsenal_Output")
+airsenal_output = data.get("next_three_out")
 
 # Specify the positions you want to extract
 positions = ["GK", "DEF", "MID", "FWD"]
@@ -49,11 +49,13 @@ if airsenal_output:
     for position in positions:
         player_data = extract_player_data(position, airsenal_output)
         player_data_dict[position] = player_data
+    output_file_path = '/Users/oliverlewis/development/airsenal-app/AIrsenal/fpl-front-end/src/data/player_data_next_three.json'
 
     # Save the player_data_dict to a single JSON file
     with open("player_data_next_three.json", "w") as outfile:
         json.dump(player_data_dict, outfile, indent=4)
-    
+    with open(output_file_path, "w") as outfile:
+        json.dump(player_data_dict, outfile, indent=4)
     print("Player data saved to player_data_next_three.json.")
 else:
     print("No AIrsenal output found in the JSON file.")

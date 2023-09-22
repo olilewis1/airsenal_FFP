@@ -1,0 +1,32 @@
+[
+    {
+        "gameweek": 6,
+        "chips_played": "Chips played:  None",
+        "players_in": [
+            "Juli\u00e1n \u00c1lvarez"
+        ],
+        "players_out": [
+            "Ollie Watkins"
+        ]
+    },
+    {
+        "gameweek": 7,
+        "chips_played": "Chips played:  None",
+        "players_in": [
+            "Son Heung-min"
+        ],
+        "players_out": [
+            "Bryan Mbeumo"
+        ]
+    },
+    {
+        "gameweek": 8,
+        "chips_played": "Chips played:  None",
+        "players_in": [
+            "Pedro Porro"
+        ],
+        "players_out": [
+            "Pervis Estupi\u00f1\u00e1n"
+        ]
+    }
+]
