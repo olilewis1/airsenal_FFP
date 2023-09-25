@@ -1,0 +1,2064 @@
+{
+	"get": "players",
+	"parameters": {
+		"league": "39",
+		"page": "29",
+		"season": "2023"
+	},
+	"errors": [],
+	"results": 20,
+	"paging": {
+		"current": 29,
+		"total": 44
+	},
+	"response": [
+		{
+			"player": {
+				"id": 1463,
+				"name": "J. Willock",
+				"firstname": "Joseph George",
+				"lastname": "Willock",
+				"age": 24,
+				"birth": {
+					"date": "1999-08-20",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "179 cm",
+				"weight": "71 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1463.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2507,
+				"name": "M. Almirón",
+				"firstname": "Miguel Ángel",
+				"lastname": "Almirón Rejala",
+				"age": 29,
+				"birth": {
+					"date": "1994-02-10",
+					"place": "Asunción",
+					"country": "Paraguay"
+				},
+				"nationality": "Paraguay",
+				"height": "174 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2507.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 4,
+						"minutes": 327,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.780000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 3,
+						"bench": 1
+					},
+					"shots": {
+						"total": 6,
+						"on": 2
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 126,
+						"key": 4,
+						"accuracy": 21
+					},
+					"tackles": {
+						"total": 3,
+						"blocks": null,
+						"interceptions": 3
+					},
+					"duels": {
+						"total": 21,
+						"won": 6
+					},
+					"dribbles": {
+						"attempts": 4,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2806,
+				"name": "F. Schär",
+				"firstname": "Fabian Lukas",
+				"lastname": "Schär",
+				"age": 32,
+				"birth": {
+					"date": "1991-12-20",
+					"place": "Wil",
+					"country": "Switzerland"
+				},
+				"nationality": "Switzerland",
+				"height": "186 cm",
+				"weight": "84 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2806.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.860000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 1,
+						"on": 1
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 326,
+						"key": null,
+						"accuracy": 56
+					},
+					"tackles": {
+						"total": 7,
+						"blocks": 6,
+						"interceptions": 4
+					},
+					"duels": {
+						"total": 37,
+						"won": 17
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 7
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2855,
+				"name": "E. Krafth",
+				"firstname": "Emil Henry Kristoffer",
+				"lastname": "Krafth",
+				"age": 29,
+				"birth": {
+					"date": "1994-08-02",
+					"place": "Stockholm",
+					"country": "Sweden"
+				},
+				"nationality": "Sweden",
+				"height": "184 cm",
+				"weight": "83 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2855.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2939,
+				"name": "C. Wilson",
+				"firstname": "Callum Eddie Graham",
+				"lastname": "Wilson",
+				"age": 31,
+				"birth": {
+					"date": "1992-02-27",
+					"place": "Coventry",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "180 cm",
+				"weight": "66 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2939.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 1,
+						"minutes": 186,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 4,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": 10,
+						"on": 6
+					},
+					"goals": {
+						"total": 3,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 42,
+						"key": 1,
+						"accuracy": 6
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 28,
+						"won": 8
+					},
+					"dribbles": {
+						"attempts": 7,
+						"success": 5,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 3
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 1,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 10135,
+				"name": "Bruno Guimarães",
+				"firstname": "Bruno",
+				"lastname": "Guimarães Rodriguez Moura",
+				"age": 26,
+				"birth": {
+					"date": "1997-11-16",
+					"place": "Rio de Janeiro",
+					"country": "Brazil"
+				},
+				"nationality": "Brazil",
+				"height": "182 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/10135.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 445,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.840000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 1,
+						"bench": 0
+					},
+					"shots": {
+						"total": 4,
+						"on": 2
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 296,
+						"key": 4,
+						"accuracy": 51
+					},
+					"tackles": {
+						"total": 9,
+						"blocks": 2,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 64,
+						"won": 31
+					},
+					"dribbles": {
+						"attempts": 11,
+						"success": 6,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 14,
+						"committed": 11
+					},
+					"cards": {
+						"yellow": 3,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18778,
+				"name": "H. Barnes",
+				"firstname": "Harvey Lewis",
+				"lastname": "Barnes",
+				"age": 26,
+				"birth": {
+					"date": "1997-12-09",
+					"place": "Burnley",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "174 cm",
+				"weight": "66 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18778.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 1,
+						"minutes": 173,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.980000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 4,
+						"out": 1,
+						"bench": 4
+					},
+					"shots": {
+						"total": 3,
+						"on": 2
+					},
+					"goals": {
+						"total": 1,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 60,
+						"key": 2,
+						"accuracy": 9
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 21,
+						"won": 12
+					},
+					"dribbles": {
+						"attempts": 5,
+						"success": 3,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 7,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18894,
+				"name": "J. Lascelles",
+				"firstname": "Jamaal",
+				"lastname": "Lascelles",
+				"age": 30,
+				"birth": {
+					"date": "1993-11-11",
+					"place": "Derby",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "188 cm",
+				"weight": "89 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18894.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 16,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 16,
+						"key": null,
+						"accuracy": 13
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 3,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18896,
+				"name": "Javier Manquillo",
+				"firstname": "Javier",
+				"lastname": "Manquillo Gaitán",
+				"age": 29,
+				"birth": {
+					"date": "1994-05-05",
+					"place": "Madrid",
+					"country": "Spain"
+				},
+				"nationality": "Spain",
+				"height": "178 cm",
+				"weight": "76 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18896.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18901,
+				"name": "S. Longstaff",
+				"firstname": "Sean David",
+				"lastname": "Longstaff",
+				"age": 26,
+				"birth": {
+					"date": "1997-10-30",
+					"place": "Newcastle upon Tyne",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "180 cm",
+				"weight": "65 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18901.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 1,
+						"minutes": 179,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.740000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 4,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": 2,
+						"on": 2
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 76,
+						"key": 4,
+						"accuracy": 11
+					},
+					"tackles": {
+						"total": 6,
+						"blocks": 1,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 21,
+						"won": 10
+					},
+					"dribbles": {
+						"attempts": 2,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18903,
+				"name": "M. Ritchie",
+				"firstname": "Matthew Thomas",
+				"lastname": "Ritchie",
+				"age": 34,
+				"birth": {
+					"date": "1989-09-10",
+					"place": "Gosport",
+					"country": "England"
+				},
+				"nationality": "Scotland",
+				"height": "172 cm",
+				"weight": "76 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18903.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18941,
+				"name": "M. Targett",
+				"firstname": "Matthew Robert",
+				"lastname": "Targett",
+				"age": 28,
+				"birth": {
+					"date": "1995-09-18",
+					"place": "Eastleigh",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "183 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18941.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 2,
+						"lineups": 1,
+						"minutes": 77,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 1,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 38,
+						"key": 1,
+						"accuracy": 16
+					},
+					"tackles": {
+						"total": 2,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 8,
+						"won": 4
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 2,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18961,
+				"name": "D. Burn",
+				"firstname": "Daniel Johnson",
+				"lastname": "Burn",
+				"age": 31,
+				"birth": {
+					"date": "1992-05-09",
+					"place": "Blyth",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "198 cm",
+				"weight": "87 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18961.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.780000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 1,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 252,
+						"key": 2,
+						"accuracy": 42
+					},
+					"tackles": {
+						"total": 11,
+						"blocks": 3,
+						"interceptions": 5
+					},
+					"duels": {
+						"total": 42,
+						"won": 22
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.780000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 1,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 252,
+						"key": 2,
+						"accuracy": 42
+					},
+					"tackles": {
+						"total": 11,
+						"blocks": 3,
+						"interceptions": 5
+					},
+					"duels": {
+						"total": 42,
+						"won": 22
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19163,
+				"name": "J. Murphy",
+				"firstname": "Jacob Kai",
+				"lastname": "Murphy",
+				"age": 28,
+				"birth": {
+					"date": "1995-02-24",
+					"place": "London",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "179 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19163.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 4,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "7.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 5,
+						"key": 2,
+						"accuracy": 5
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 2,
+						"won": 2
+					},
+					"dribbles": {
+						"attempts": 2,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 31146,
+				"name": "S. Tonali",
+				"firstname": "Sandro",
+				"lastname": "Tonali",
+				"age": 23,
+				"birth": {
+					"date": "2000-05-08",
+					"place": null,
+					"country": "Italy"
+				},
+				"nationality": "Italy",
+				"height": "181 cm",
+				"weight": "79 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/31146.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 286,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.825000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 4,
+						"bench": 1
+					},
+					"shots": {
+						"total": 2,
+						"on": 2
+					},
+					"goals": {
+						"total": 1,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 147,
+						"key": 4,
+						"accuracy": 30
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 26,
+						"won": 12
+					},
+					"dribbles": {
+						"attempts": 4,
+						"success": 3,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 4,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 2,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 38734,
+				"name": "S. Botman",
+				"firstname": "Sven Adriaan",
+				"lastname": "Botman",
+				"age": 23,
+				"birth": {
+					"date": "2000-01-12",
+					"place": "Badhoevedorp",
+					"country": "Netherlands"
+				},
+				"nationality": "Netherlands",
+				"height": "193 cm",
+				"weight": "81 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/38734.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 357,
+						"number": null,
+						"position": "Defender",
+						"rating": "7.150000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 1,
+						"bench": 0
+					},
+					"shots": {
+						"total": 4,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 255,
+						"key": 2,
+						"accuracy": 57
+					},
+					"tackles": {
+						"total": 6,
+						"blocks": 3,
+						"interceptions": 3
+					},
+					"duels": {
+						"total": 26,
+						"won": 17
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 2,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 138908,
+				"name": "E. Anderson",
+				"firstname": "Elliot",
+				"lastname": "Anderson",
+				"age": 21,
+				"birth": {
+					"date": "2002-11-06",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "Scotland",
+				"height": "179 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/138908.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 1,
+						"minutes": 154,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.675000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 4,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 64,
+						"key": 2,
+						"accuracy": 9
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": 1,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 22,
+						"won": 13
+					},
+					"dribbles": {
+						"attempts": 5,
+						"success": 4,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 2,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 158694,
+				"name": "T. Livramento",
+				"firstname": "Valentino Francisco",
+				"lastname": "Livramento",
+				"age": 21,
+				"birth": {
+					"date": "2002-11-12",
+					"place": "London",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "182 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/158694.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 4,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.200000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284492,
+				"name": "L. Hall",
+				"firstname": "Lewis Kieran",
+				"lastname": "Hall",
+				"age": 19,
+				"birth": {
+					"date": "2004-09-08",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "179 cm",
+				"weight": "73 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284492.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 2
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 49,
+						"name": "Chelsea",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/49.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 328105,
+				"name": "L. Miley",
+				"firstname": "Lewis",
+				"lastname": "Miley",
+				"age": 17,
+				"birth": {
+					"date": "2006-05-01",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "185 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/328105.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 34,
+						"name": "Newcastle",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/34.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		}
+	]
+}

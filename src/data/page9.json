@@ -1,0 +1,2212 @@
+{
+	"get": "players",
+	"parameters": {
+		"league": "39",
+		"page": "9",
+		"season": "2023"
+	},
+	"errors": [],
+	"results": 20,
+	"paging": {
+		"current": 9,
+		"total": 44
+	},
+	"response": [
+		{
+			"player": {
+				"id": 17879,
+				"name": "Carlos Gomes",
+				"firstname": "Carlos Mendes",
+				"lastname": "Gomes",
+				"age": 25,
+				"birth": {
+					"date": "1998-11-14",
+					"place": "Yeumbeul",
+					"country": "Senegal"
+				},
+				"nationality": "Spain",
+				"height": "178 cm",
+				"weight": "66 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/17879.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1359,
+						"name": "Luton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/1359.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19565,
+				"name": "J. Weir",
+				"firstname": "Jensen Guy",
+				"lastname": "Weir",
+				"age": 21,
+				"birth": {
+					"date": "2002-01-31",
+					"place": "Warrington",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "186 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19565.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 51,
+						"name": "Brighton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/51.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 87858,
+				"name": "J. McAtee",
+				"firstname": "John George",
+				"lastname": "McAtee",
+				"age": 24,
+				"birth": {
+					"date": "1999-07-23",
+					"place": "Manchester",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "180 cm",
+				"weight": "75 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/87858.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1359,
+						"name": "Luton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/1359.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 106086,
+				"name": "K. Balmer",
+				"firstname": "Kofi",
+				"lastname": "Balmer",
+				"age": 23,
+				"birth": {
+					"date": "2000-09-19",
+					"place": null,
+					"country": "Northern Ireland"
+				},
+				"nationality": "Northern Ireland",
+				"height": "183 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/106086.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 138793,
+				"name": "H. White",
+				"firstname": "Harvey David",
+				"lastname": "White",
+				"age": 22,
+				"birth": {
+					"date": "2001-09-19",
+					"place": "Maidstone",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "171 cm",
+				"weight": "60 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/138793.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 47,
+						"name": "Tottenham",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/47.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 152968,
+				"name": "A. Muskwe",
+				"firstname": "Admiral Dalindlela",
+				"lastname": "Muskwe",
+				"age": 25,
+				"birth": {
+					"date": "1998-08-21",
+					"place": "Harare",
+					"country": "England"
+				},
+				"nationality": "Zimbabwe",
+				"height": "183 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/152968.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1359,
+						"name": "Luton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/1359.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 154806,
+				"name": "L. Watson",
+				"firstname": "Louie Shaun",
+				"lastname": "Watson",
+				"age": 22,
+				"birth": {
+					"date": "2001-06-07",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "Republic of Ireland",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/154806.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1359,
+						"name": "Luton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/1359.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 167656,
+				"name": "M. Leonard",
+				"firstname": "Marc Henry",
+				"lastname": "Leonard",
+				"age": 22,
+				"birth": {
+					"date": "2001-12-19",
+					"place": null,
+					"country": "Scotland"
+				},
+				"nationality": "Scotland",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/167656.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 51,
+						"name": "Brighton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/51.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 169291,
+				"name": "V. Sinisalo",
+				"firstname": "Viljami Kari Veikko",
+				"lastname": "Sinisalo",
+				"age": 22,
+				"birth": {
+					"date": "2001-10-11",
+					"place": null,
+					"country": "Finland"
+				},
+				"nationality": "Finland",
+				"height": "190 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/169291.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 66,
+						"name": "Aston Villa",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/66.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 191337,
+				"name": "T. Crama",
+				"firstname": "Tristan",
+				"lastname": "Crama",
+				"age": 22,
+				"birth": {
+					"date": "2001-11-08",
+					"place": "Béziers",
+					"country": "France"
+				},
+				"nationality": "France",
+				"height": "192 cm",
+				"weight": "78 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/191337.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 266203,
+				"name": "J. Gordon",
+				"firstname": "John-Kymani Linton",
+				"lastname": "Michael Gordon",
+				"age": 20,
+				"birth": {
+					"date": "2003-02-13",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/266203.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 3
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 270357,
+				"name": "K. Phillips",
+				"firstname": "Killian",
+				"lastname": "Phillips",
+				"age": 21,
+				"birth": {
+					"date": "2002-03-30",
+					"place": "San Diego",
+					"country": "USA"
+				},
+				"nationality": "Republic of Ireland",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/270357.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 273757,
+				"name": "A. Devine",
+				"firstname": "Alfie Sean",
+				"lastname": "Devine",
+				"age": 19,
+				"birth": {
+					"date": "2004-08-01",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "179 cm",
+				"weight": "75 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/273757.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 47,
+						"name": "Tottenham",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/47.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 278041,
+				"name": "M. Cox",
+				"firstname": "Matthew Aidan",
+				"lastname": "Cox",
+				"age": 20,
+				"birth": {
+					"date": "2003-05-02",
+					"place": "London",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "182 cm",
+				"weight": "64 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/278041.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 280672,
+				"name": "E. Turns",
+				"firstname": "Edward James",
+				"lastname": "Turns",
+				"age": 21,
+				"birth": {
+					"date": "2002-10-18",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "Wales",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/280672.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 51,
+						"name": "Brighton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/51.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284059,
+				"name": "L. Plange",
+				"firstname": "Luke Elliot",
+				"lastname": "Plange",
+				"age": 21,
+				"birth": {
+					"date": "2002-11-04",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284059.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284187,
+				"name": "S. Mills",
+				"firstname": "Stanley",
+				"lastname": "Mills",
+				"age": 20,
+				"birth": {
+					"date": "2003-10-25",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284187.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 45,
+						"name": "Everton",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/45.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284297,
+				"name": "O. Dodgson",
+				"firstname": "Owen Joel",
+				"lastname": "Dodgson",
+				"age": 20,
+				"birth": {
+					"date": "2003-03-19",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284297.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 342660,
+				"name": "O. Arblaster",
+				"firstname": "Oliver Luke",
+				"lastname": "Arblaster",
+				"age": 19,
+				"birth": {
+					"date": "2004-05-05",
+					"place": "Sheffield",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "175 cm",
+				"weight": "65 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/342660.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 62,
+						"name": "Sheffield Utd",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/62.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 382925,
+				"name": "R. Trevitt",
+				"firstname": "Ryan",
+				"lastname": "Trevitt",
+				"age": 20,
+				"birth": {
+					"date": "2003-03-12",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "170 cm",
+				"weight": "65 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/382925.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 55,
+						"name": "Brentford",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/55.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		}
+	]
+}

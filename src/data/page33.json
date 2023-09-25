@@ -1,0 +1,1990 @@
+{
+	"get": "players",
+	"parameters": {
+		"league": "39",
+		"page": "33",
+		"season": "2023"
+	},
+	"errors": [],
+	"results": 20,
+	"paging": {
+		"current": 33,
+		"total": 44
+	},
+	"response": [
+		{
+			"player": {
+				"id": 1135,
+				"name": "O. Édouard",
+				"firstname": "Odsonne",
+				"lastname": "Édouard",
+				"age": 25,
+				"birth": {
+					"date": "1998-01-16",
+					"place": "Kourou",
+					"country": "French Guiana"
+				},
+				"nationality": "France",
+				"height": "187 cm",
+				"weight": "83 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1135.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 431,
+						"number": null,
+						"position": "Attacker",
+						"rating": "7.380000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 3,
+						"bench": 0
+					},
+					"shots": {
+						"total": 16,
+						"on": 9
+					},
+					"goals": {
+						"total": 4,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 81,
+						"key": 5,
+						"accuracy": 11
+					},
+					"tackles": {
+						"total": 7,
+						"blocks": null,
+						"interceptions": 2
+					},
+					"duels": {
+						"total": 60,
+						"won": 24
+					},
+					"dribbles": {
+						"attempts": 13,
+						"success": 5,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 4,
+						"committed": 6
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 1438,
+				"name": "B. Leno",
+				"firstname": "Bernd",
+				"lastname": "Leno",
+				"age": 31,
+				"birth": {
+					"date": "1992-03-04",
+					"place": "Bietigheim-Bissingen",
+					"country": "Germany"
+				},
+				"nationality": "Germany",
+				"height": "189 cm",
+				"weight": "82 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1438.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 36,
+						"name": "Fulham",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/36.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": "7.540000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 10,
+						"assists": null,
+						"saves": 24
+					},
+					"passes": {
+						"total": 193,
+						"key": null,
+						"accuracy": 29
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 5,
+						"won": 4
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": 0
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 1440,
+				"name": "R. Holding",
+				"firstname": "Robert Samuel",
+				"lastname": "Holding",
+				"age": 28,
+				"birth": {
+					"date": "1995-09-20",
+					"place": "Stalybridge",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "189 cm",
+				"weight": "81 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1440.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 42,
+						"name": "Arsenal",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/42.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2490,
+				"name": "J. Lerma",
+				"firstname": "Jefferson Andrés",
+				"lastname": "Lerma Solís",
+				"age": 29,
+				"birth": {
+					"date": "1994-10-25",
+					"place": "Cerrito",
+					"country": "Colombia"
+				},
+				"nationality": "Colombia",
+				"height": "179 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2490.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 360,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "7.425000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 3,
+						"on": 2
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 190,
+						"key": 6,
+						"accuracy": 39
+					},
+					"tackles": {
+						"total": 9,
+						"blocks": 1,
+						"interceptions": 7
+					},
+					"duels": {
+						"total": 46,
+						"won": 29
+					},
+					"dribbles": {
+						"attempts": 3,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 4
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 3339,
+				"name": "C. Doucouré",
+				"firstname": "Cheick Oumar",
+				"lastname": "Doucouré",
+				"age": 23,
+				"birth": {
+					"date": "2000-01-08",
+					"place": "Bamako",
+					"country": "Mali"
+				},
+				"nationality": "Mali",
+				"height": "180 cm",
+				"weight": "73 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/3339.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "7.240000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 1,
+						"bench": 0
+					},
+					"shots": {
+						"total": 2,
+						"on": 1
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 214,
+						"key": 4,
+						"accuracy": 38
+					},
+					"tackles": {
+						"total": 15,
+						"blocks": 2,
+						"interceptions": 9
+					},
+					"duels": {
+						"total": 41,
+						"won": 24
+					},
+					"dribbles": {
+						"attempts": 7,
+						"success": 6,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 6
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18806,
+				"name": "W. Hughes",
+				"firstname": "William James",
+				"lastname": "Hughes",
+				"age": 28,
+				"birth": {
+					"date": "1995-04-17",
+					"place": "Surrey",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "185 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18806.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 2,
+						"lineups": 1,
+						"minutes": 90,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "7.200000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 42,
+						"key": 1,
+						"accuracy": 18
+					},
+					"tackles": {
+						"total": 5,
+						"blocks": 4,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 17,
+						"won": 8
+					},
+					"dribbles": {
+						"attempts": 3,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18843,
+				"name": "J. Schlupp",
+				"firstname": "Jeffrey",
+				"lastname": "Schlupp",
+				"age": 31,
+				"birth": {
+					"date": "1992-12-23",
+					"place": "Hamburg",
+					"country": "Germany"
+				},
+				"nationality": "Ghana",
+				"height": "178 cm",
+				"weight": "72 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18843.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 396,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 3,
+						"bench": 0
+					},
+					"shots": {
+						"total": 5,
+						"on": 3
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 106,
+						"key": 8,
+						"accuracy": 15
+					},
+					"tackles": {
+						"total": 9,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 42,
+						"won": 26
+					},
+					"dribbles": {
+						"attempts": 10,
+						"success": 5,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 4,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18853,
+				"name": "J. Riedewald",
+				"firstname": "Jaïro Jocquim",
+				"lastname": "Riedewald",
+				"age": 27,
+				"birth": {
+					"date": "1996-09-09",
+					"place": "Haarlem",
+					"country": "Netherlands"
+				},
+				"nationality": "Netherlands",
+				"height": "182 cm",
+				"weight": "79 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18853.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19586,
+				"name": "E. Eze",
+				"firstname": "Eberechi Oluchi",
+				"lastname": "Eze",
+				"age": 25,
+				"birth": {
+					"date": "1998-06-29",
+					"place": "London",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "178 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19586.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 5,
+						"lineups": 5,
+						"minutes": 450,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "7.620000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 12,
+						"on": 7
+					},
+					"goals": {
+						"total": 1,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 174,
+						"key": 13,
+						"accuracy": 31
+					},
+					"tackles": {
+						"total": 10,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 82,
+						"won": 47
+					},
+					"dribbles": {
+						"attempts": 28,
+						"success": 20,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 11,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19617,
+				"name": "M. Olise",
+				"firstname": "Michael Akpovie",
+				"lastname": "Olise",
+				"age": 22,
+				"birth": {
+					"date": "2001-12-12",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "France",
+				"height": "184 cm",
+				"weight": "76 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19617.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19657,
+				"name": "M. Rodák",
+				"firstname": "Marek",
+				"lastname": "Rodák",
+				"age": 27,
+				"birth": {
+					"date": "1996-12-13",
+					"place": "Košice",
+					"country": "Slovakia"
+				},
+				"nationality": "Slovakia",
+				"height": "194 cm",
+				"weight": "81 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19657.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 36,
+						"name": "Fulham",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/36.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": 0
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 25927,
+				"name": "J. Mateta",
+				"firstname": "Jean-Philippe",
+				"lastname": "Mateta",
+				"age": 26,
+				"birth": {
+					"date": "1997-06-28",
+					"place": "Sevran",
+					"country": "France"
+				},
+				"nationality": "France",
+				"height": "192 cm",
+				"weight": "88 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/25927.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 0,
+						"minutes": 103,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.700000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 3,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 3,
+						"saves": null
+					},
+					"passes": {
+						"total": 21,
+						"key": 3,
+						"accuracy": 5
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 15,
+						"won": 1
+					},
+					"dribbles": {
+						"attempts": 3,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 3
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 126949,
+				"name": "C. Richards",
+				"firstname": "Christopher Jeffrey",
+				"lastname": "Richards",
+				"age": 23,
+				"birth": {
+					"date": "2000-03-28",
+					"place": "Birmingham",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "188 cm",
+				"weight": "87 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/126949.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 1,
+						"minutes": 90,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 23,
+						"key": null,
+						"accuracy": 19
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": 2,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 5,
+						"won": 3
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 127605,
+				"name": "N. Ferguson",
+				"firstname": "Nathan Kirk-Patrick",
+				"lastname": "Ferguson",
+				"age": 23,
+				"birth": {
+					"date": "2000-10-06",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "178 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/127605.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 152418,
+				"name": "N. Ahamada",
+				"firstname": "Naouirou Mohamed",
+				"lastname": "Ahamada",
+				"age": 21,
+				"birth": {
+					"date": "2002-03-29",
+					"place": null,
+					"country": "France"
+				},
+				"nationality": "France",
+				"height": "183 cm",
+				"weight": "73 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/152418.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 0,
+						"minutes": 35,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.433333",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 3,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 30,
+						"key": null,
+						"accuracy": 8
+					},
+					"tackles": {
+						"total": 2,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 7,
+						"won": 4
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284449,
+				"name": "J. Rak-Sakyi",
+				"firstname": "Jesurun",
+				"lastname": "Rak-Sakyi",
+				"age": 21,
+				"birth": {
+					"date": "2002-10-05",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "178 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284449.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 2,
+						"lineups": 0,
+						"minutes": 7,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 2,
+						"out": 0,
+						"bench": 5
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 6,
+						"key": 1,
+						"accuracy": 2
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 5,
+						"won": 4
+					},
+					"dribbles": {
+						"attempts": 2,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 284551,
+				"name": "J. Wells-Morrison",
+				"firstname": "Jack Campbell",
+				"lastname": "Wells-Morrison",
+				"age": 19,
+				"birth": {
+					"date": "2004-02-18",
+					"place": null,
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "180 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/284551.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 308867,
+				"name": "S. Grehan",
+				"firstname": "Seán",
+				"lastname": "Grehan",
+				"age": 19,
+				"birth": {
+					"date": "2004-01-08",
+					"place": null,
+					"country": "Republic of Ireland"
+				},
+				"nationality": "Republic of Ireland",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/308867.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 311157,
+				"name": "Matheus França",
+				"firstname": "Matheus",
+				"lastname": "França de Oliveira",
+				"age": 19,
+				"birth": {
+					"date": "2004-04-01",
+					"place": null,
+					"country": "Brazil"
+				},
+				"nationality": "Brazil",
+				"height": "178 cm",
+				"weight": "67 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/311157.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 328808,
+				"name": "M. Ebiowei",
+				"firstname": "Malcolm",
+				"lastname": "Perewari Ebiowei",
+				"age": 20,
+				"birth": {
+					"date": "2003-09-04",
+					"place": null,
+					"country": "Nigeria"
+				},
+				"nationality": "England",
+				"height": "185 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/328808.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 52,
+						"name": "Crystal Palace",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/52.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		}
+	]
+}

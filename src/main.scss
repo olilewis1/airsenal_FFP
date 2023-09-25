@@ -1,0 +1,24 @@
+@import "~bootstrap/scss/bootstrap";
+
+.font-link {
+  font-family: 'Bebas Neue', sans-serif;
+font-family: 'Dela Gothic One', cursive;
+
+}
+
+.App { 
+  font-family: 'Dela Gothic One', cursive;
+  background-color: #c4bfbe;
+  .small { font-size: 10px;
+  font-weight: 100; 
+  font-family: 'Fira Code', monospace;
+color: white;}
+  .terminal { 
+    background-color: black;
+    height: 35vh;
+  }
+  .btn-fff{ 
+    background-color: #0f62e4;
+    color: #f65c40;
+  }
+}

@@ -1,0 +1,1990 @@
+{
+	"get": "players",
+	"parameters": {
+		"league": "39",
+		"page": "19",
+		"season": "2023"
+	},
+	"errors": [],
+	"results": 20,
+	"paging": {
+		"current": 19,
+		"total": 44
+	},
+	"response": [
+		{
+			"player": {
+				"id": 110,
+				"name": "H. Massengo",
+				"firstname": "Han-Noah",
+				"lastname": "Massengo",
+				"age": 22,
+				"birth": {
+					"date": "2001-07-07",
+					"place": null,
+					"country": "France"
+				},
+				"nationality": "France",
+				"height": "178 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/110.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 1411,
+				"name": "H. Delcroix",
+				"firstname": "Hannes",
+				"lastname": "Delcroix",
+				"age": 24,
+				"birth": {
+					"date": "1999-02-28",
+					"place": "Grande Hatte",
+					"country": "Haiti"
+				},
+				"nationality": "Belgium",
+				"height": "185 cm",
+				"weight": "78 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1411.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 1,
+						"minutes": 137,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.733333",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 2,
+						"out": 0,
+						"bench": 2
+					},
+					"shots": {
+						"total": 4,
+						"on": 2
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 116,
+						"key": 2,
+						"accuracy": 36
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": 5
+					},
+					"duels": {
+						"total": 6,
+						"won": 3
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 1934,
+				"name": "S. Berge",
+				"firstname": "Sander Gard",
+				"lastname": "Bolin Berge",
+				"age": 25,
+				"birth": {
+					"date": "1998-02-14",
+					"place": "Bærum",
+					"country": "Norway"
+				},
+				"nationality": "Norway",
+				"height": "195 cm",
+				"weight": "96 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/1934.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 3,
+						"minutes": 231,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.625000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 3,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 92,
+						"key": 2,
+						"accuracy": 19
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": 3,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 25,
+						"won": 11
+					},
+					"dribbles": {
+						"attempts": 4,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 4
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				},
+				{
+					"team": {
+						"id": 62,
+						"name": "Sheffield Utd",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/62.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.625000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 92,
+						"key": 2,
+						"accuracy": 19
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": 3,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 25,
+						"won": 11
+					},
+					"dribbles": {
+						"attempts": 4,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 4
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2790,
+				"name": "J. Guðmunds­son",
+				"firstname": "Jóhann Berg",
+				"lastname": "Guðmunds­son",
+				"age": 33,
+				"birth": {
+					"date": "1990-10-27",
+					"place": "Reykjavík",
+					"country": "Iceland"
+				},
+				"nationality": "Iceland",
+				"height": "186 cm",
+				"weight": "78 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/2790.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 2,
+						"minutes": 153,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.733333",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 2,
+						"bench": 2
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 66,
+						"key": 4,
+						"accuracy": 17
+					},
+					"tackles": {
+						"total": 2,
+						"blocks": null,
+						"interceptions": 3
+					},
+					"duels": {
+						"total": 13,
+						"won": 8
+					},
+					"dribbles": {
+						"attempts": 2,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 8589,
+				"name": "B. Manuel",
+				"firstname": "Benson",
+				"lastname": "Manuel Hedilazio",
+				"age": 26,
+				"birth": {
+					"date": "1997-03-28",
+					"place": "Lokeren",
+					"country": "Belgium"
+				},
+				"nationality": "Belgium",
+				"height": "178 cm",
+				"weight": "68 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/8589.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 2,
+						"lineups": 1,
+						"minutes": 62,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.050000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 1,
+						"bench": 3
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 14,
+						"key": null,
+						"accuracy": 6
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 11,
+						"won": 3
+					},
+					"dribbles": {
+						"attempts": 6,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 8661,
+				"name": "Vitinho",
+				"firstname": "Victor Alexander",
+				"lastname": "da Silva",
+				"age": 24,
+				"birth": {
+					"date": "1999-07-23",
+					"place": "Belo Horizonte",
+					"country": "Brazil"
+				},
+				"nationality": "Brazil",
+				"height": "175 cm",
+				"weight": "72 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/8661.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 1,
+						"minutes": 90,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 22,
+						"key": 1,
+						"accuracy": 17
+					},
+					"tackles": {
+						"total": null,
+						"blocks": 1,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 3,
+						"won": 1
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18918,
+				"name": "C. Taylor",
+				"firstname": "Charles James",
+				"lastname": "Taylor",
+				"age": 30,
+				"birth": {
+					"date": "1993-09-18",
+					"place": "York",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "176 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18918.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 1,
+						"minutes": 90,
+						"number": null,
+						"position": "Defender",
+						"rating": "7.000000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 1,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 43,
+						"key": null,
+						"accuracy": 35
+					},
+					"tackles": {
+						"total": 2,
+						"blocks": null,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 10,
+						"won": 3
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 3
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18922,
+				"name": "J. Cork",
+				"firstname": "Jack Frank",
+				"lastname": "Porteous Cork",
+				"age": 34,
+				"birth": {
+					"date": "1989-06-25",
+					"place": "London",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "183 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18922.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 16,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 4
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 15,
+						"key": null,
+						"accuracy": 9
+					},
+					"tackles": {
+						"total": 1,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 6,
+						"won": 1
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18948,
+				"name": "N. Redmond",
+				"firstname": "Nathan Daniel Jerome",
+				"lastname": "Redmond",
+				"age": 29,
+				"birth": {
+					"date": "1994-03-06",
+					"place": "Birmingham",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "173 cm",
+				"weight": "69 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/18948.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 0,
+						"minutes": 52,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.366666",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 3,
+						"out": 0,
+						"bench": 3
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 18,
+						"key": 1,
+						"accuracy": 4
+					},
+					"tackles": {
+						"total": 2,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 6,
+						"won": 3
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 1,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19169,
+				"name": "J. Rodríguez",
+				"firstname": "Jay Enrique",
+				"lastname": "Rodríguez",
+				"age": 34,
+				"birth": {
+					"date": "1989-07-29",
+					"place": "Burnley",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "185 cm",
+				"weight": "84 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19169.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 9,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.200000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 3
+					},
+					"shots": {
+						"total": 2,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 2,
+						"key": null,
+						"accuracy": 1
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19268,
+				"name": "J. Brownhill",
+				"firstname": "Joshua",
+				"lastname": "Brownhill",
+				"age": 28,
+				"birth": {
+					"date": "1995-12-19",
+					"place": "Warrington",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "180 cm",
+				"weight": "69 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19268.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 1,
+						"minutes": 134,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.866666",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 2,
+						"out": 0,
+						"bench": 3
+					},
+					"shots": {
+						"total": 2,
+						"on": 1
+					},
+					"goals": {
+						"total": 1,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 55,
+						"key": 1,
+						"accuracy": 14
+					},
+					"tackles": {
+						"total": 3,
+						"blocks": null,
+						"interceptions": 2
+					},
+					"duels": {
+						"total": 9,
+						"won": 6
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 2,
+						"committed": 1
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19331,
+				"name": "C. Roberts",
+				"firstname": "Connor Richard John",
+				"lastname": "Roberts",
+				"age": 28,
+				"birth": {
+					"date": "1995-09-23",
+					"place": "Neath",
+					"country": "Wales"
+				},
+				"nationality": "Wales",
+				"height": "175 cm",
+				"weight": "72 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19331.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 360,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.325000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 212,
+						"key": 1,
+						"accuracy": 46
+					},
+					"tackles": {
+						"total": 3,
+						"blocks": 3,
+						"interceptions": 3
+					},
+					"duels": {
+						"total": 14,
+						"won": 8
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 4,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 19827,
+				"name": "J. Cullen",
+				"firstname": "Joshua Jon",
+				"lastname": "Cullen",
+				"age": 27,
+				"birth": {
+					"date": "1996-04-07",
+					"place": "Westcliff-on-Sea",
+					"country": "England"
+				},
+				"nationality": "Republic of Ireland",
+				"height": "175 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/19827.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 360,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.850000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 222,
+						"key": 2,
+						"accuracy": 47
+					},
+					"tackles": {
+						"total": 7,
+						"blocks": 3,
+						"interceptions": 2
+					},
+					"duels": {
+						"total": 35,
+						"won": 20
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 10,
+						"committed": 7
+					},
+					"cards": {
+						"yellow": 2,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 25628,
+				"name": "J. Beyer",
+				"firstname": "Louis Jordan",
+				"lastname": "Beyer",
+				"age": 23,
+				"birth": {
+					"date": "2000-05-19",
+					"place": "Kempen",
+					"country": "Germany"
+				},
+				"nationality": "Germany",
+				"height": "187 cm",
+				"weight": "80 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/25628.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 3,
+						"lineups": 3,
+						"minutes": 235,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.633333",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 3,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 164,
+						"key": null,
+						"accuracy": 48
+					},
+					"tackles": {
+						"total": 14,
+						"blocks": null,
+						"interceptions": 4
+					},
+					"duels": {
+						"total": 30,
+						"won": 21
+					},
+					"dribbles": {
+						"attempts": 4,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 2,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 37381,
+				"name": "M. Trésor",
+				"firstname": "Mike",
+				"lastname": "Trésor Ndayishimiye",
+				"age": 24,
+				"birth": {
+					"date": "1999-05-28",
+					"place": "Lembeek",
+					"country": "Belgium"
+				},
+				"nationality": "Belgium",
+				"height": "172 cm",
+				"weight": "64 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/37381.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 0,
+						"minutes": 14,
+						"number": null,
+						"position": "Midfielder",
+						"rating": "6.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 1,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": 1,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 6,
+						"key": 1,
+						"accuracy": 5
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 2,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 47903,
+				"name": "H. Ekdal",
+				"firstname": "Hjalmar",
+				"lastname": "Ekdal",
+				"age": 25,
+				"birth": {
+					"date": "1998-10-21",
+					"place": "Stockholm",
+					"country": "Sweden"
+				},
+				"nationality": "Sweden",
+				"height": "188 cm",
+				"weight": "77 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/47903.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 1
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 98936,
+				"name": "L. Foster",
+				"firstname": "Lyle Brent",
+				"lastname": "Foster",
+				"age": 23,
+				"birth": {
+					"date": "2000-09-03",
+					"place": "Johannesburg",
+					"country": "South Africa"
+				},
+				"nationality": "South Africa",
+				"height": "185 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/98936.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 351,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.750000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 2,
+						"bench": 0
+					},
+					"shots": {
+						"total": 6,
+						"on": 4
+					},
+					"goals": {
+						"total": 2,
+						"conceded": 0,
+						"assists": 1,
+						"saves": null
+					},
+					"passes": {
+						"total": 80,
+						"key": 3,
+						"accuracy": 14
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 47,
+						"won": 17
+					},
+					"dribbles": {
+						"attempts": 5,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 7
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 1
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 105789,
+				"name": "D. Churlinov",
+				"firstname": "Darko",
+				"lastname": "Churlinov",
+				"age": 23,
+				"birth": {
+					"date": "2000-07-11",
+					"place": "Skopje",
+					"country": "North Macedonia"
+				},
+				"nationality": "North Macedonia",
+				"height": "171 cm",
+				"weight": "73 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/105789.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 181827,
+				"name": "C. Egan-Riley",
+				"firstname": "Conrad Jaden",
+				"lastname": "Egan-Riley",
+				"age": 20,
+				"birth": {
+					"date": "2003-01-02",
+					"place": "Manchester",
+					"country": "England"
+				},
+				"nationality": "England",
+				"height": "183 cm",
+				"weight": null,
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/181827.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 323449,
+				"name": "A. Al Dakhil",
+				"firstname": "Ameen",
+				"lastname": "Al Dakhil",
+				"age": 21,
+				"birth": {
+					"date": "2002-03-06",
+					"place": "Baghdad",
+					"country": "Belgium"
+				},
+				"nationality": "Belgium",
+				"height": "187 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https:\/\/media-4.api-sports.io\/football\/players\/323449.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 44,
+						"name": "Burnley",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/teams\/44.png"
+					},
+					"league": {
+						"id": 39,
+						"name": "Premier League",
+						"country": "England",
+						"logo": "https:\/\/media-4.api-sports.io\/football\/leagues\/39.png",
+						"flag": "https:\/\/media-4.api-sports.io\/flags\/gb.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 4,
+						"minutes": 360,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.225000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 1,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 212,
+						"key": null,
+						"accuracy": 45
+					},
+					"tackles": {
+						"total": 4,
+						"blocks": 2,
+						"interceptions": 5
+					},
+					"duels": {
+						"total": 33,
+						"won": 11
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": 3
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		}
+	]
+}

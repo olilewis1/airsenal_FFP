@@ -1,7 +1,7 @@
 import React from 'react'
 
 const NextThree = (props) => {
-  console.log(props.GK  )
+  console.log(props )
   function hi(propsToUse) {
     const mapping_position = ['GK', 'DEF', 'MID', 'FWD'];
     
