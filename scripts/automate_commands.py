@@ -1,16 +1,21 @@
+import argparse
 import subprocess
 import json
-fpl_team_id = 9884044
-fpl_team_id_me = 3705355
-fpl_login = 'olilewis1@hotmail.co.uk'
-fpl_login_me = 'oliverlewis1331@gmail.com'
-fpl_password = 'Flynn@2020'
-fpl_password_me = 'Flynn@1992'
+fpl_team_ids = 9884044
+fpl_team_id_mes = 3705355
+fpl_logins = 'olilewis1@hotmail.co.uk'
+fpl_login_mes = 'oliverlewis1331@gmail.com'
+fpl_passwords = 'Flynn@2020'
+fpl_password_mes = 'Flynn@1992'
 
-def run_airsenal_commands():
-    command_team_id = f"airsenal_env set -k FPL_TEAM_ID -v {fpl_team_id_me}"
-    command_login = f"airsenal_env set -k FPL_LOGIN -v {fpl_login_me}"
-    command_password = f"airsenal_env set -k FPL_PASSWORD -v {fpl_password_me}"
+def run_airsenal_commands(args):
+    fpl_team_id = args.fpl_team_id
+    fpl_login = args.fpl_login
+    fpl_password = args.fpl_password
+
+    command_team_id = f"airsenal_env set -k FPL_TEAM_ID -v {fpl_team_id}"
+    command_login = f"airsenal_env set -k FPL_LOGIN -v {fpl_login}"
+    command_password = f"airsenal_env set -k FPL_PASSWORD -v {fpl_password}"  
     # Activate the Conda environment
     subprocess.run(["conda", "activate", "airsenal_env"], shell=True)
 
@@ -122,4 +127,16 @@ def extract_data(output):
       else:
           return "Data not found."
 if __name__ == "__main__":
-    run_airsenal_commands()
+    # Create an argument parser
+    parser = argparse.ArgumentParser(description='Automate Commands')
+
+    # Define command-line arguments for login data
+    parser.add_argument('--fpl_login', type=str, help='FPL login')
+    parser.add_argument('--fpl_password', type=str, help='FPL password')
+    parser.add_argument('--fpl_team_id', type=int, help='FPL team ID')
+
+    # Parse the command-line arguments
+    args = parser.parse_args()
+
+    # Call the function with parsed arguments
+    run_airsenal_commands(args)
